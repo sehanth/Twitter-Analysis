@@ -1,1 +1,2 @@
 # Twitter-Analysis
+With millions of tweets posted daily, organizations need tools to understand what content performs best. Traditional analytics tools often lack real-time interactivity or custom logic. By leveraging Power BI and Twitter data, we bridge this gap, offering stakeholders immediate insights into content effectiveness with advanced filtering (e.g., by engagement rate, character count, tweet type, etc.).
